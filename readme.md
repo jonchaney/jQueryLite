@@ -1,0 +1,1 @@
+This project implements jQuery from scratch
